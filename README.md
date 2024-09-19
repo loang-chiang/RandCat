@@ -1,6 +1,6 @@
 # RandCat
 
-![image][Website.png]
+![Demo Image](Website.png)
 
 Welcome! This is a very simple project that retrieves cat images from Unsplash and lets the user save them in a Firebase database!
 
